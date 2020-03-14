@@ -1,0 +1,4 @@
+This challenge is about the INSPECT ELEMENT options in the web browser.
+On looking at the code, there is a comparision for 'please give flag' in the javascript, 
+but the input is given as only 'give flag'.
+So, in the INSPECT ELEMENT of the code you need to change 'give flag' --> 'please give flag' and refresh.
