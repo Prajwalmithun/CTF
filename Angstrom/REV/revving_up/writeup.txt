@@ -1,0 +1,11 @@
+This is a simple challenge where I used the shell provided by them and used these commands.
+
+Folder name was revving_up. It consisted 2 files flag.txt,revving_up
+
+ $ cd revving_up;
+ $ cat flag.txt --> I had no permission to view the flag.txt
+ $ ls -l        --> I got to know that I had executable permissin for revving_up
+ $ file revving_up  --> I got to know it was executable
+ $ strings revving_up  --> To get better understanding of the printable character,
+                           I did this and got some info of how to provide input.
+ $ ./revving_up     --> just follwed this and got the flag.
