@@ -1,0 +1,12 @@
+This is a challenge which uses  WIRESHARK.
+On following the the tcp stream we are able to see that user uploads a image.
+
+So we can download the fils(like html,images etc) in wireshark.
+Here these files are called objects. So how to download them.
+
+File --> Export Objects --> HTTP
+
+Then on looking at the downloaded files we have a file called ___________
+on opening in vi editor we can see that its jpeg image so remove the headers and trailers from file.
+
+Then you can view the image
