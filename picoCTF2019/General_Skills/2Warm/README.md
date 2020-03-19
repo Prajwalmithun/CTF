@@ -7,5 +7,4 @@ This is a basic challenge to convert decimal to binary.
 FLAG:
 ```
 picoCTF{101010}
-
 ```
