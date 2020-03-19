@@ -13,6 +13,7 @@ grep -r [pattern_to_match] [directory_names]
 ```
 
 -r - is used for recursive search(ie., to search all the files in specified directory).
+
 \*  - because to search in all the directories.
 
 FLAG:
