@@ -1,2 +1,3 @@
 # picoCTF 2019
-![](./picoctf.svg)
+
+<img align="right" width=200 src="./picoctf.svg"/>
