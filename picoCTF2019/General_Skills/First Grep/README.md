@@ -1,6 +1,7 @@
 ![](./images/logo.png)
 
-###grep
+### grep
+
 So this challenge forces to use grep command to search the flag.
 
 ![](./images/img1.png)
