@@ -9,7 +9,7 @@ nc [domain_name/IP address] [port]
 ```
 
 On connecting we get a huge lines of strings.So we can redirect the output to a file using
-> operator.
+\> operator.
 
 Then we can run grep over it to get the flag.
 
