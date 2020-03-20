@@ -1,7 +1,8 @@
 ![](./images/logo.png)
 ![](./images/img1.png)
 
-We connect to remote host with the help of netcat(nc) command.
+NetCat(nc) is a command used for reading or writing data over the network.
+It is also called Swiss Army Knife.
 
 ### Format of nc
 ```
