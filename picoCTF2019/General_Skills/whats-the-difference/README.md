@@ -1,6 +1,13 @@
 ![](./images/logo.png)
 ![](./images/img2.png)
 ![](./images/img1.png)
+
+
+We have 2 images to compare. On looking at the 2nd image, it has been blurred/blackend.
+
+So this difference happens byte byte in each image.
+
+
 ![](./images/img3.png)
 
 FLAG:
