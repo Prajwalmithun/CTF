@@ -1,5 +1,5 @@
 ![](./images/logo_1.png)
-![](./images/given_file.png)
+
 
 On running *file* command over the given file we get the output as:
 ```
@@ -9,7 +9,8 @@ On opening in the text editor, it looks empty.
 
 But on selecting the entire file (CTRL+A)., observation can be made,
 
-![](./images/logo.png)
+![](./images/given_file.png)
+
 
 There are only 2 type of space,
 
@@ -25,9 +26,11 @@ Double Spaces with *0*
 
 So I wrote a python script to do this
 
-![](./images/img1.png)
+![](./images/logo.png)
 
 Then use any online binary to ascii convert to get the flag.
+
+![](./images/img1.png)
 
 FLAG:
 ```
