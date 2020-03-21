@@ -1,4 +1,4 @@
-![](./images/logo.png)
+![](./logo.png)
 
 ![](./images/hint.png)
 
@@ -16,6 +16,8 @@ HOW TO USE ?
 ```
 $ ghex [IMAGENAME]
 ```
+
+[This is the given image](garden.jpg)
 
 ![](./images/img1.png)
 
