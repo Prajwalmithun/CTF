@@ -1,0 +1,8 @@
+![](./images/logo.png)
+![](./images/img1.png)
+![](./images/img2.png)
+
+FLAG:
+```
+picoCTF{not_all_spaces_are_created_equal_dd5c2e2f77f89f3051c82bfee7d996ef}
+```
