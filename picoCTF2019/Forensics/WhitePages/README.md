@@ -27,7 +27,7 @@ Then use any online binary to ascii convert to get the flag.
 
 
 ![](./images/logo.png)
-![](./images/img2.png)
+![](./images/img1.png)
 
 
 
