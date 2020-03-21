@@ -3,6 +3,7 @@
 
 On running *file* command over the given file we get the output as:
 ```
+whitepages.txt: UTF-8 Unicode text, with very long lines, with no line terminators
 ```
 
 On opening in the text editor, it looks empty.
