@@ -17,6 +17,7 @@ TCP protocol. Likewise the HTTP, etc.
 
 So wireshark provides this feature. *Follow stream* to narrow the packets in that specific stream.
 
+On viewing the given [pcap](./capture.pcap) file in Wireshark.
 
 ![](./images/img1.png)
 
