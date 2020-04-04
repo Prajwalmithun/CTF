@@ -1,3 +1,9 @@
+This is the basic challenge
+
+![](images/rules.png)
+![](images/rules_sol.png)
+
+# View page source to get the flag
 
 FLAG:
 ```
