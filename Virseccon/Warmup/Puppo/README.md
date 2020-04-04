@@ -1,6 +1,7 @@
 # Embedded into image
 
 This is the challenge
+
 ![](images/pappo_ch.png)
 
 This is the file to [download](woofer.jpg) in the challenge
