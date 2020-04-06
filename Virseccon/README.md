@@ -1,3 +1,3 @@
 # CERTIFICATE
 
-![](VirSecCon CTF_img.png)
+![](VirSecCon\ CTF_img.png)
