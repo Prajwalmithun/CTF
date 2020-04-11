@@ -4,3 +4,7 @@
 [GENERAL SKILLS](./General_Skills)
 
 [FORENSICS](./Forensics)
+
+[WEB EXPLOITATION](./Web Exploitation)
+
+[CRYPTOGRAPHY](./Cryptography)
