@@ -5,6 +5,6 @@
 
 [FORENSICS](./Forensics)
 
-[WEB EXPLOITATION](./Web Exploitation)
+[WEB EXPLOITATION](./Web\ Exploitation)
 
 [CRYPTOGRAPHY](./Cryptography)
