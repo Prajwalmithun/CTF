@@ -1,0 +1,5 @@
+1. top -> plain text
+2. left -> key
+3. intesection of row and col -> cipher
+
+Flag : picoCTF{CRYPTOISFUN}
