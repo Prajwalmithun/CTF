@@ -25,7 +25,7 @@ Replace Single space with *1*
 
 Double Spaces with *0*
 
-So I wrote a python script to do this
+So I wrote a python [script](white.py) to do this
 
 ![](./images/logo.png)
 
