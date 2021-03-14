@@ -9,5 +9,5 @@ So if we are able to decipher the cipher we get the flag.
 1. Install this tool for doing this.
 https://github.com/Ganapati/RsaCtfTool
 
-2. Usage : python RsaCtfTool.py -n 126390312099294739294606157407778835887 -e 65537 --uncipher 13612260682947644362892911986815626931
+2. Usage : python3 RsaCtfTool.py -n 126390312099294739294606157407778835887 -e 65537 --uncipher 13612260682947644362892911986815626931
  ** after --uncipher is the cipher(c)
